@@ -1,0 +1,8 @@
+Grupo: Urbazoom
+Projeto: UrbaZoom API (P2 - API REST)
+
+Integrantes (nome completo e RA):
+
+1) Rafaela Tavares da Silva - RA: ______________
+2) ____________________________________ (Ana Eloisa) - RA: ______________
+3) ____________________________________ (Agatha Correia) - RA: ______________

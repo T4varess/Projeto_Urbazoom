@@ -1,0 +1,11 @@
+package br.com.urbazoom.api.repository;
+
+import br.com.urbazoom.api.model.Categoria;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import java.util.List;
+
+public interface CategoriaRepository extends JpaRepository<Categoria, Long> {
+
+    List<Categoria> findByOrgaoId(Long orgaoId);
+}
